@@ -6,7 +6,7 @@
 
 - 🔭 At this moment, I’m working on [The Yawning Portal (front)](https://github.com/varitoapg/TheYawningPortal-Front) and [The Yawning Portal (back)](https://github.com/varitoapg/TheYawningPortal-Back)
 
-- 🌱 I’m currently learning **Astro** and ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
+- 🌱 I’m currently learning ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 
 - 🌼 Right now I'm improving my skills in ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) and ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -47,8 +47,7 @@
 ![Github Actions](https://img.shields.io/badge/github--actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ![Nodejs](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://camo.githubusercontent.com/0a95585d6b3a07028298a45d60b85a1331358bc336549d64dbbc27977f1495f3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4578707265737326636f6c6f723d303030303030266c6f676f3d45787072657373266c6f676f436f6c6f723d464646464646266c6162656c3d)
-
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Supabase](https://img.shields.io/badge/supabase-%2347A248.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-%23404d59.svg?style=for-the-badge)
