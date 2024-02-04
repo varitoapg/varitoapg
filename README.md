@@ -6,9 +6,9 @@
 
 - 🔭 At this moment, I’m working on [The Yawning Portal (front)](https://github.com/varitoapg/TheYawningPortal-Front) and [The Yawning Portal (back)](https://github.com/varitoapg/TheYawningPortal-Back)
 
-- 🌱 I’m currently learning **React Native** and ![Cypress](https://img.shields.io/badge/cypress-%23000.svg?style=for-the-badge&logo=cypress&logoColor=white)
+- 🌱 I’m currently learning **Astro** and ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 
-- 🌼 Right now I'm improving my skills in ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 🌼 Right now I'm improving my skills in ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) and ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 - 📫 How to reach me **alvaro.parada92@gmail.com** or [![Linkedin Badge](https://img.shields.io/badge/-Álvaro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-parada/)
 
@@ -38,6 +38,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
