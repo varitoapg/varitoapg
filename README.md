@@ -6,7 +6,7 @@
 
 - 🔭 At this moment, I’m working on [The Yawning Portal (front)](https://github.com/varitoapg/TheYawningPortal-Front) and [The Yawning Portal (back)](https://github.com/varitoapg/TheYawningPortal-Back)
 
-- 🌱 I’m currently learning ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
+- 🌱 I’m currently learning ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - 🌼 Right now I'm improving my skills in ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) and ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
